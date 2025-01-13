@@ -1,3 +1,5 @@
+## Hi there 👋
+
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
     <iframe 
         src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" 
@@ -15,7 +17,6 @@
     </a>
 </p>
 
-## Hi there 👋
 
 <!--
 **GuySerkinsky/GuySerkinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

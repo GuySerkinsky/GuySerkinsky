@@ -1,4 +1,4 @@
-html_embed: |
+
   <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
     <iframe 
       src="https://giphy.com/embed/78XCFBGOlS6keY1Bil" 

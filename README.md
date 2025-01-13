@@ -1,4 +1,4 @@
-## Hello world 👋
+## Hello AI world 👋
 
 <!-- <div style="text-align: center; max-width: 100%; height: auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">

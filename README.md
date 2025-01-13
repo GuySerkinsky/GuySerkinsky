@@ -1,11 +1,10 @@
-## hello world 👋
+## Hello world 👋
 
-<div style="text-align: center; max-width: 100%; height: auto;">
+<!-- <div style="text-align: center; max-width: 100%; height: auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto; max-width: 500px;" />
   </a>
-</div>
-
+</div> -->
 
 
 <!--

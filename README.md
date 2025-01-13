@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![Giphy Programmer Pizza Ninjas](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)
+<div style="max-width: 100%; height: auto;">
+  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto;" />
+  </a>
+</div>
 
 
 

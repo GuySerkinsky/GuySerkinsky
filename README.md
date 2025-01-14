@@ -1,6 +1,6 @@
 ## Hello AI👋
 
-<div style="text-align: center; max-width: 100%; height: auto;">
+<div style="text-align: right; max-width: 100%; height: auto;">
   <a href="https://www.primevideo.com/detail/Silicon-Valley/0LLWFVV92TIXKLXR9NX17FYRSG">
     <img src="https://m.media-amazon.com/images/S/pv-target-images/c1655b184799e7897de4752b818e3510a400d28d661a8567c7e53ddc1f2db084._SX1080_FMjpg_.jpg" alt="Silicon Valley Image" style="width: 75%; height: auto; max-width: 500px;" />
   </a>

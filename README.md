@@ -1,10 +1,10 @@
-## Hello AI world 👋
+## Hello AI👋
 
-<!-- <div style="text-align: center; max-width: 100%; height: auto;">
+<div style="text-align: center; max-width: 100%; height: auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
-    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto; max-width: 500px;" />
+    <img src="[https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif](https://static.hbo.com/2024-07/silicon-valley-10th-anniversary-ka-1920.jpg)" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto; max-width: 500px;" />
   </a>
-</div> -->
+</div>
 
 
 <!--

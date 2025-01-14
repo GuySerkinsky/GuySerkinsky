@@ -4,7 +4,7 @@
   <a href="https://www.primevideo.com/detail/Silicon-Valley/0LLWFVV92TIXKLXR9NX17FYRSG">
     <img src="https://m.media-amazon.com/images/S/pv-target-images/c1655b184799e7897de4752b818e3510a400d28d661a8567c7e53ddc1f2db084._SX1080_FMjpg_.jpg" alt="Silicon Valley Image" style="width: 75%; height: auto; max-width: 500px;" />
   </a>
-</div> -->
+</div>
 
 <div style="text-align: center; max-width: 100%; height: auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
@@ -16,7 +16,18 @@
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://static.hbo.com/2024-07/silicon-valley-10th-anniversary-ka-1920.jpg" alt="Silicon Valley 10th Anniversary" style="width: 100%; height: auto; max-width: 500px;" />
   </a>
+</div> -->
+
+<div style="position: relative; width: 100%; padding-bottom: 100%;">
+  <iframe
+    src="https://giphy.com/embed/78XCFBGOlS6keY1Bil"
+    style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"
+    frameBorder="0"
+    class="giphy-embed"
+    allowFullScreen>
+  </iframe>
 </div>
+<p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
 <!--
 **GuySerkinsky/GuySerkinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,16 +18,11 @@
   </a>
 </div> -->
 
-<div style="position: relative; width: 100%; padding-bottom: 100%;">
-  <iframe
-    src="https://giphy.com/embed/78XCFBGOlS6keY1Bil"
-    style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"
-    frameBorder="0"
-    class="giphy-embed"
-    allowFullScreen>
-  </iframe>
+<div style="text-align: center; max-width: 100%; height: auto;">
+  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+    <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto; max-width: 500px;" />
+  </a>
 </div>
-<p><a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">via GIPHY</a></p>
 
 <!--
 **GuySerkinsky/GuySerkinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

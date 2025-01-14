@@ -1,4 +1,4 @@
-## Hello AI👋
+<!-- ## Hello AI👋
 
 <!-- <div style="text-align: right; max-width: 75%; height: auto;">
   <a href="https://www.primevideo.com/detail/Silicon-Valley/0LLWFVV92TIXKLXR9NX17FYRSG">
@@ -16,9 +16,9 @@
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://static.hbo.com/2024-07/silicon-valley-10th-anniversary-ka-1920.jpg" alt="Silicon Valley 10th Anniversary" style="width: 100%; height: auto; max-width: 500px;" />
   </a>
-</div> -->
+</div>
 
-<!--<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto; padding-left: 1120px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto; padding-left: 1120px;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="max-width: 70%; height: auto; display: block; margin-left: 20px;" />
   </a>

@@ -18,6 +18,12 @@
   </a>
 </div> -->
 
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto; padding-left: 20px;">
+  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="max-width: 100%; height: auto; display: block; margin-left: 20px;" />
+  </a>
+</div>
+
 <div style="display: flex; justify-content: right; align-items: center; width: 100%; height: auto; margin: 0 auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="max-width: 100%; height: auto; display: block;" />

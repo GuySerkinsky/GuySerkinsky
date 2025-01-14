@@ -18,7 +18,7 @@
   </a>
 </div> -->
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto; padding-left: 1120px;">
+<!--<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto; margin: 0 auto; padding-left: 1120px;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="max-width: 70%; height: auto; display: block; margin-left: 20px;" />
   </a>
@@ -28,25 +28,8 @@
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3l0cnNnYjhjd3J4cGt5ODVhYm5oa2d4MDdqOHZ1dG80cWUxcDhuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="max-width: 100%; height: auto; display: block;" />
   </a>
-</div>
+</div>-->
 
-<div style="text-align: center; max-width: 50%; height: auto;">
-  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="align: center ; width: 75%; height: auto; max-width: 1500px;" />
-  </a>
-</div>
-
-<div style="text-align: center; max-width: 75%; margin: 0 auto;">
-  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 75%; height: auto; max-width: 1500px; display: block; margin: 0 auto;" />
-  </a>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; margin: 20px 0;">
-  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 75%; max-width: 1500px; height: auto;" />
-  </a>
-</div>
 
 <!--
 **GuySerkinsky/GuySerkinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

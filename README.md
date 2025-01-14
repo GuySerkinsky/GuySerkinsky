@@ -12,6 +12,12 @@
   </a>
 </div>
 
+<div style="text-align: center; max-width: 100%; height: auto;">
+  <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
+    <img src="https://static.hbo.com/2024-07/silicon-valley-10th-anniversary-ka-1920.jpg" alt="Silicon Valley 10th Anniversary" style="width: 100%; height: auto; max-width: 500px;" />
+  </a>
+</div>
+
 <!--
 **GuySerkinsky/GuySerkinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

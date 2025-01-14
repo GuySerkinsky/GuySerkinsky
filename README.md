@@ -18,7 +18,7 @@
   </a>
 </div> -->
 
-<div style="text-align: center; max-width: 100%; height: auto;">
+<div style="text-align: center; max-width: 50%; height: auto;">
   <a href="https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY3YnlkaGU3a3F3OGZtaTRlYWhvYWM2eDF2OGR1NjR5dzlmaWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VKmJApzCJyN19zd9hW/giphy.gif" alt="Giphy Programmer Pizza Ninjas" style="width: 100%; height: auto; max-width: 500px;" />
   </a>
